@@ -1,0 +1,1 @@
+An analogue clock displaying the time in rgb color. Red represents hours, green represents minutes, and blue represents seconds. When the time values overlap, the sum of their color parts is displayed.
